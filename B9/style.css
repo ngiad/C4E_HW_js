@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin:30px 20px 0px;
+}
+table{
+    margin-top: 30px;
+}
+.ul_baimot{
+    list-style: none;
+    display: flex;
+}
+.ul_baimot li{
+    margin: 12px 15px;
+}
